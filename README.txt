@@ -1,5 +1,5 @@
 === Makzine ===
-Contributors: idooco
+
 Requires at least: WordPress 4.7
 Tested up to: WordPress 4.9
 Version: 1.0.4
@@ -12,18 +12,16 @@ Tags: two-columns, right-sidebar, flexible-header, custom-colors, custom-header,
 
 Makzine brings your site to life with header image and immersive featured images. With a focus on blog and magazine sites, it features multiple categories sections on the front page as well as featured widget, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats.
 
-For more information about Makzine please go to or contact at http://idooco.com
-
 == Installation ==
 
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
-2. Type in Makzine in the search form and press the 'Enter' key on your keyboard.
+2. Select 'Upload' and browser for theme zip file.
 3. Click on the 'Activate' button to use your new theme right away.
 4. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
 == Copyright ==
 
-Makzine WordPress Theme, Copyright 2018 idooco.com
+Makzine WordPress Theme, Copyright 2018 www.ashiish.me
 Makzine is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
@@ -41,6 +39,9 @@ Makzine bundles the following third-party resources:
 Font Awesome icons, Copyright Dave Gandy
 License: SIL Open Font License, version 1.1.
 Source: http://fontawesome.io/
+
+Copyright (c) 2011-2018 Twitter, Inc.
+Copyright (c) 2011-2018 The Bootstrap Authors
 
 == Changelog ==
 
