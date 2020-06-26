@@ -8,6 +8,10 @@
 - Tags: two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu,
  custom-logo, editor-style, featured-images, footer-widgets, post-formats, theme-options
 
+## Screenshot
+
+![Makzine demo image](https://scontent.fktm3-1.fna.fbcdn.net/v/t1.0-9/45772537_318233699008042_458230769479843840_o.jpg?_nc_cat=111&_nc_sid=ca434c&_nc_ohc=CQLgPyezT6cAX-4DIt4&_nc_ht=scontent.fktm3-1.fna&oh=2fe8a9ae2e10e2f0abe04c3884ecbbf9&oe=5F1D9D40)
+
 ## Description
 
 Makzine brings your site to life with header image and immersive featured images. With a focus on blog and magazine sites, it features multiple categories sections on the front page as well as featured widget, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats.
