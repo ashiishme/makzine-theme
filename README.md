@@ -10,7 +10,7 @@
 
 ## Screenshot
 
-![Makzine demo image](https://scontent.fktm3-1.fna.fbcdn.net/v/t1.0-9/45772537_318233699008042_458230769479843840_o.jpg?_nc_cat=111&_nc_sid=ca434c&_nc_ohc=CQLgPyezT6cAX-4DIt4&_nc_ht=scontent.fktm3-1.fna&oh=2fe8a9ae2e10e2f0abe04c3884ecbbf9&oe=5F1D9D40)
+![Makzine demo image](https://repository-images.githubusercontent.com/156713335/9acfa900-b801-11ea-95c4-9c07a83435bb)
 
 ## Description
 
